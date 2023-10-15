@@ -402,9 +402,9 @@ header .container .header-content .text a:hover {
   }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 490px) {
   .experience .container .row .image {
-    width: 50%;
+    width: 65%;
   }
 }
 
